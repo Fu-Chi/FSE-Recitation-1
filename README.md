@@ -1,2 +1,2 @@
 # FSE-Recitation-1
-Location of classes: Zoom
+Location of classes: CMU
